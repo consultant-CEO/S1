@@ -1,0 +1,6 @@
+{
+  "name": "Google AI Studio 雲端架構與 DevOps 顧問",
+  "description": "專精於 Google AI Studio 原型設計、GitHub 專案工程化規範、GCP/AWS 無伺服器 CI/CD 自動化部署與 FinOps 成本優化分析之企業級架構工作站。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
